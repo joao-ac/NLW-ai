@@ -8,7 +8,7 @@
     "server": "node --watch server/index.js"
   },
   "devDependencies": {
-    "vite": "^4.5.10"
+    "vite": "^4.5.11"
   },
   "dependencies": {
     "@distube/ytdl-core": "^4.16.6",
